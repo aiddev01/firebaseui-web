@@ -1,7 +1,7 @@
 {
-  "name": "firebaseui",
+  "name": "firebaseui-mfa",
   "version": "5.0.11",
-  "description": "Javascript library for customizable UI on top of Firebase SDK",
+  "description": "Javascript library for customizable UI on top of Firebase SDK with multifactor support added by GULABS",
   "files": [
     "dist/firebaseui.js",
     "dist/firebaseui__en.js",
@@ -37,7 +37,7 @@
   "author": "Google",
   "repository": {
     "type": "git",
-    "url": "https://github.com/firebase/firebaseui-web.git"
+    "url": "https://github.com/aiddev01/firebaseui-web.git"
   },
   "publishConfig": {
     "registry": "https://wombat-dressing-room.appspot.com"
