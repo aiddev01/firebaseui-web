@@ -4,15 +4,9 @@
   "description": "Javascript library for customizable UI on top of Firebase SDK with multifactor support added by GULABS",
   "files": [
     "dist/firebaseui.js",
-    "dist/firebaseui__en.js",
-    "dist/firebaseui__ja.js",
     "dist/firebaseui.css",
     "dist/npm.js",
-    "dist/npm__en.js",
-    "dist/npm__ja.js",
     "dist/esm.js",
-    "dist/esm__en.js",
-    "dist/esm__ja.js",
     "dist/index.d.ts",
     "dist/externs",
     "LICENSE",
@@ -34,13 +28,10 @@
     "generate-test-files": "./buildtools/generate_test_files.sh"
   },
   "test": "npm run test",
-  "author": "Google",
+  "author": "aiddev",
   "repository": {
     "type": "git",
     "url": "https://github.com/aiddev01/firebaseui-web.git"
-  },
-  "publishConfig": {
-    "registry": "https://wombat-dressing-room.appspot.com"
   },
   "license": "Apache-2.0",
   "devDependencies": {
